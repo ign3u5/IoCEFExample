@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Igneus\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Igneus\\.nuget\\packages"
+    ]
+  }
+}
